@@ -1,0 +1,3 @@
+# Image Dropdown Plugin
+
+<INSERT-YOUR-PLUGIN-DESCRIPTION-HERE>
